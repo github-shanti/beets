@@ -303,7 +303,7 @@ Because beets is designed as a library, it can do almost anything you can imagin
          <script type="text/javascript"><!--
 e9 = new Object();
 e9.size = "336x280,300x250";
-//--></script>
+//--></script>   test
 <script type="text/javascript" src="http://example.com/tags/lyricsbaycom/examplecom/tags.js">
 </script>
 
@@ -356,5 +356,6 @@ cf_adunit_id = '39381388';
 cf_flex = true
 </script><script type="text/javascript" src="//example.com/showads/showad.php"></script>
 <center><img src="images/example.jpg" alt="ToneFuse Music" title="ToneFuse Music" width="150" height="30"><p style="height: 5px; margin: 0pt; padding: 0pt;"></p></center>
+
 </body>
 </html>
